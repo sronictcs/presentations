@@ -1,0 +1,3 @@
+Data Dictionaries
+
+Data Dictionaries are used to represent the data that you will store in your database. The DBMS you are most likely to use for your project is probably an SQLite database.
